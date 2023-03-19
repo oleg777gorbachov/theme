@@ -1,0 +1,23 @@
+{
+  "name": "Spherix",
+  "displayName": "Spherix",
+  "description": "Purple shade theme for vs code",
+  "author": "DinGis",
+  "publisher": "DinGis",
+  "version": "1.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Spherix",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Spherix-color-theme.json"
+      }
+    ]
+  }
+}
