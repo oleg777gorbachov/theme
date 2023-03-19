@@ -1,10 +1,21 @@
 {
   "name": "Spherix",
-  "displayName": "Spherix",
+  "displayName": "Spherix theme",
   "description": "Purple shade theme for vs code",
   "author": "DinGis",
   "publisher": "DinGis",
   "version": "1.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oleg777gorbachov/theme.git"
+  },
+  "icon": "images/icon.png",
+  "keywords": [
+    "theme",
+    "darktheme",
+    "dark",
+    "DinGis"
+  ],
   "engines": {
     "vscode": "^1.76.0"
   },
